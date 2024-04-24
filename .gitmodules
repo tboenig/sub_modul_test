@@ -1,3 +1,6 @@
 [submodule "gt_structure_1_1"]
 	path = gt_structure_1_1
 	url = https://github.com/OCR-D/gt_structure_1_1
+[submodule "mkn-kurrent-gt"]
+	path = mkn-kurrent-gt
+	url = https://github.com/tboenig/mkn-kurrent-gt.git
