@@ -1,3 +1,3 @@
-[submodule "gt_structure_1_1"]
-	path = gt_structure_1_1
+[submodule "datasets/gt_structure_1_1"]
+	path = datasets/gt_structure_1_1
 	url = https://github.com/OCR-D/gt_structure_1_1
